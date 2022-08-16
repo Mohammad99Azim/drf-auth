@@ -1,7 +1,7 @@
 # drf-auth
 
 
-# Lab: 32 - Permissions & Postgresql
+# Lab: 33 - Authentication & Production Server
 ## Project: drf-auth
 #### Author: Mohammad Azim
 #### Links and Resources
