@@ -10,3 +10,11 @@
 [Simplejwt](https://django-rest-framework-simplejwt.readthedocs.io/en/latest/)
 
 [whitenoise](http://whitenoise.evans.io/en/stable/)
+
+
+
+### http://localhost:8000/api/token/
+
+### http://localhost:8000/api/token/refresh/
+
+### http://localhost:8000/api/v1/animes/
